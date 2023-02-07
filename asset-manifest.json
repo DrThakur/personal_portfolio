@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/DrThakur/personal_portfolio/static/css/main.66a0d48c.css",
+    "main.js": "/DrThakur/personal_portfolio/static/js/main.6262996a.js",
+    "static/js/787.128fc6e9.chunk.js": "/DrThakur/personal_portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/scrollablewebsite-coverimage.png": "/DrThakur/personal_portfolio/static/media/scrollablewebsite-coverimage.03e78d2570c39791a423.png",
+    "static/media/Disney-coverimage.png": "/DrThakur/personal_portfolio/static/media/Disney-coverimage.bc4d50b1eaa8252fbeee.png",
+    "static/media/youtube-coverimage.png": "/DrThakur/personal_portfolio/static/media/youtube-coverimage.c2aabcd071b6f0994ea9.png",
+    "static/media/color-sharp.png": "/DrThakur/personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/DrThakur/personal_portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/menuwebsite-coverimage.png": "/DrThakur/personal_portfolio/static/media/menuwebsite-coverimage.087eb9438b6c9e007687.png",
+    "static/media/firebase-image.png": "/DrThakur/personal_portfolio/static/media/firebase-image.00acb0beffc00f18e57a.png",
+    "static/media/matrimonial-coverimage.png": "/DrThakur/personal_portfolio/static/media/matrimonial-coverimage.39d5be6c5ca66856943e.png",
+    "static/media/react-image.png": "/DrThakur/personal_portfolio/static/media/react-image.81ed438b18e24116794d.png",
+    "static/media/banner-bg.png": "/DrThakur/personal_portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/DrThakur/personal_portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/html-image.png": "/DrThakur/personal_portfolio/static/media/html-image.41846d9e5dfb20727631.png",
+    "static/media/CentraNo2-Bold.ttf": "/DrThakur/personal_portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/DrThakur/personal_portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/DrThakur/personal_portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/textutility-coverimage.png": "/DrThakur/personal_portfolio/static/media/textutility-coverimage.1044e9c9994d590dc817.png",
+    "static/media/footer-bg.png": "/DrThakur/personal_portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/bootstrap-logo.png": "/DrThakur/personal_portfolio/static/media/bootstrap-logo.f132cb791703420e69ca.png",
+    "static/media/logo-no-background.png": "/DrThakur/personal_portfolio/static/media/logo-no-background.f6d8956ff75e8490e1d0.png",
+    "static/media/github-image.png": "/DrThakur/personal_portfolio/static/media/github-image.93bd645661c7f6547e21.png",
+    "static/media/css-image.png": "/DrThakur/personal_portfolio/static/media/css-image.02d225c7df0b28341d8d.png",
+    "static/media/redux-image.png": "/DrThakur/personal_portfolio/static/media/redux-image.b3b939c66aecf7d53967.png",
+    "static/media/revicons.eot": "/DrThakur/personal_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/DrThakur/personal_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/js-image.png": "/DrThakur/personal_portfolio/static/media/js-image.266bd9fb2663dcc057b4.png",
+    "static/media/revicons.woff": "/DrThakur/personal_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/DrThakur/personal_portfolio/index.html",
+    "static/media/nav-icon1.svg": "/DrThakur/personal_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.66a0d48c.css.map": "/DrThakur/personal_portfolio/static/css/main.66a0d48c.css.map",
+    "main.6262996a.js.map": "/DrThakur/personal_portfolio/static/js/main.6262996a.js.map",
+    "787.128fc6e9.chunk.js.map": "/DrThakur/personal_portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a0d48c.css",
+    "static/js/main.6262996a.js"
+  ]
+}
